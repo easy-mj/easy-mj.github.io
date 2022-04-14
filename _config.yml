@@ -103,7 +103,8 @@ ignore:
 theme: next
 
 # Deployment
-## Docs: https://hexo.io/docs/one-command-deploymentdeploy:
+## Docs: https://hexo.io/docs/one-command-deployment
+deploy:
   type: git
   repo: git@github.com:Easy-MJ/easy-mj.github.io.git
   token: $GITHUB_TOKEN
