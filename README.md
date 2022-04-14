@@ -1,2 +1,2 @@
-# Easy-MJ.github.io
+# easy-mj.github.io
 Blog
